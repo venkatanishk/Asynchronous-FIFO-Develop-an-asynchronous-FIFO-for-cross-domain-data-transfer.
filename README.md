@@ -1,1 +1,0 @@
-# Asynchronous-FIFO-Develop-an-asynchronous-FIFO-for-cross-domain-data-transfer.
